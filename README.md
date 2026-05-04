@@ -33,5 +33,3 @@ This report analyzes patient wait lists for a hospital setting to help managemen
 - Power BI Desktop  
 - Power Query  
 - DAX
-
-## Screenshots
